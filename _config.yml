@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "제리"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "이 블로그는 제가 배운 것들과 경험을 기록하고 타인과 소통하기 위한 공간입니다. 개발과 데이터에 관한 팁, 튜토리얼, 그리고 개인 프로젝트 이야기를 통해 서로의 지식을 공유하고 성장할 수 있는 커뮤니티를 만들고 싶습니다"
   location         : "Somewhere"
   email            :
   links:
