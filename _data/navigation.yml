@@ -1,6 +1,8 @@
 # main links
 main:
   - title: "개발"
-    url: /categories/개발/
+    url: /categories/dev/
   - title: "데이터"
-    url: /categories/데이터/
+    url: /categories/data/
+  - title: "SQL"
+    url: /categories/sql/
