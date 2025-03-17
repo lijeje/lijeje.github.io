@@ -57,5 +57,9 @@ SVN이 특정 파일이나 디렉토리를 잠금 상태로 두는 이유는 다
 
 
 
+
+
+
 **읽어주셔서 감사합니다!**
+
 ![bye](/assets/images/jerry_goodbye.jpg)
