@@ -6,3 +6,5 @@ main:
     url: /categories/data/
   - title: "SQL"
     url: /categories/sql/
+  - title: "test"
+    url: /categories/test/
