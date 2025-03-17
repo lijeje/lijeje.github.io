@@ -20,13 +20,15 @@ SQLite 데이터베이스가 잠겨 있으면 SVN 작업이 중단되므로 가�
 
 ## 2.wc.db 확인
 cleanup으로 문제가 해결되지 않는다면 SVN 작업 디렉토리 내에 위치한 .svn 폴더의 wc.db 파일을 확인하고, 잠금 정보가 있는지 검토가 필요합니다. 
-![SQLite Database open](assets/images/SQLite_project_open.png)
+![SQLite Database open](assets/images/SQLite_project_open.jpg)
+
 
 파일-프로젝트열기에서 lock이 발생한 경로의 wc.db파일을 선택 합니다. 
 
 그 후 sql 실행에서 두가지 작업을 완료해야합니다. 
 
-![SQLite exc](assets/images/SQLite_exc.png)
+![SQLite exc](assets/images/SQLite_project_open.jpg)
+
 
 1. DELETE FROM WORK_QUEUE;
 작업 대기열 초기화: WORK_QUEUE 테이블은 SVN에서 수행해야 할 작업을 대기열로 저장하는 곳입니다. 이 테이블은 SVN 클라이언트가 동기화할 때 각 작업을 추적합니다.
