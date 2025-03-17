@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "SQLite database is locked 해결방법"
-categories: - 개발
-tags: 
+title: "SQLite database is locked 해결방법"
+categories:
+  - 개발
+tags:
   - SQL
   - database locked
 ---
