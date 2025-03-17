@@ -20,7 +20,7 @@ SQLite 데이터베이스가 잠겨 있으면 SVN 작업이 중단되므로 가�
 
 ## 2.wc.db 확인
 cleanup으로 문제가 해결되지 않는다면 SVN 작업 디렉토리 내에 위치한 .svn 폴더의 wc.db 파일을 확인하고, 잠금 정보가 있는지 검토가 필요합니다. 
-![SQLite Database open](assets/images/SQLite_project_open.jpg)
+![SQLite Database open](/assets/images/SQLite_project_open.jpg)
 
 ![TEST](/assets/images/SQLite_exc.jpg)
 
@@ -30,7 +30,7 @@ cleanup으로 문제가 해결되지 않는다면 SVN 작업 디렉토리 내에
 
 그 후 sql 실행에서 두가지 작업을 완료해야합니다. 
 
-![SQLite exc](assets/images/SQLite_project_open.jpg)
+![SQLite exc](/assets/images/SQLite_project_open.jpg)
 
 
 1. DELETE FROM WORK_QUEUE;
