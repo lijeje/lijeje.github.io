@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "코드와 데이터의 만남"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Lije"
+name                     : "제리"
 description              : "이 블로그는 제가 배운 것들과 경험을 기록하고 타인과 소통하기 위한 공간입니다. 개발에 관한 팁, 튜토리얼, 그리고 개인 프로젝트 이야기를 통해 서로의 지식을 공유하고 성장할 수 있는 커뮤니티를 만들고 싶습니다"
 url                      : "https://lijeje.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
