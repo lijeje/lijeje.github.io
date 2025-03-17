@@ -44,21 +44,21 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-/* 본문 여백 수정 */
-.post {
-  margin-left: 20px;
-  margin-right: 20px;
-  padding-left: 15px;
-  padding-right: 15px;
-}
-
 /* 전체 레이아웃 여백 수정 */
 .container {
   margin-left: 15px;
   margin-right: 15px;
 }
 
-/* 중앙정렬 */
-.post {
-  text-align: center !important;
+.post, .container {
+  max-width: 800px; /* 원하는 최대 너비 설정 */
+  margin: 0 auto; /* 좌우 여백을 동일하게 설정 (가운데 정렬) */
+  padding-left: 20px;
+  padding-right: 20px;
 }
+
+.post {
+  margin-left: 50px; /* 원하는 만큼 조정 */
+}
+
+
