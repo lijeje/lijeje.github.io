@@ -1,6 +1,6 @@
 ---
 title: "데이터"
-layout: categories
+layout: category
 taxonomy: category
 permalink: /categories/data/
 author_profile: true
