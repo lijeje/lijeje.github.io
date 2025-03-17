@@ -66,4 +66,10 @@ body {
 }
 
 
+.initial-content {
+  align-self: flex-start !important; /* flexbox 사용 시 */
+  justify-self: start !important; /* grid 사용 시 */
+}
+
+
 
