@@ -22,6 +22,9 @@ SQLite 데이터베이스가 잠겨 있으면 SVN 작업이 중단되므로 가�
 cleanup으로 문제가 해결되지 않는다면 SVN 작업 디렉토리 내에 위치한 .svn 폴더의 wc.db 파일을 확인하고, 잠금 정보가 있는지 검토가 필요합니다. 
 ![SQLite Database open](assets/images/SQLite_project_open.jpg)
 
+![TEST](/assets/images/SQLite_exc.jpg)
+
+
 
 파일-프로젝트열기에서 lock이 발생한 경로의 wc.db파일을 선택 합니다. 
 
